@@ -1,1 +1,17 @@
-![ Alt text](name-of-gif-file. gif) / ! [](name-of-gif-file. gif)
+ **Let's Learn c++**
+ 
+ **best way to learn is to jump directly into the sea**
+ 
+ 
+ 
+ !['demo gif'](giphy.gif)
+
+
+
+
+
+
+ !['demo2 gif'](giphy2.gif)
+
+
+
