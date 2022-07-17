@@ -1,1 +1,1 @@
- ![ Alt text](name-of-gif-file. gif)
+ !['demo gif'](giphy.gif)
